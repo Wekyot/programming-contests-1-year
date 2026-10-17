@@ -1,3 +1,1 @@
-hello world
-worldwide
-abc
+1 4 10
